@@ -66,7 +66,7 @@ We're changing that.
   - Man-in-the-Middle
   - Insider Threats
 
-### Coming Soon (Private Features)
+### Coming Soon
 - Red Team AI Swarms — Simulated attacks on live environments
 - Hacker KillBoxes — AI-powered killzones that isolate and trace intrusions
 
